@@ -1,0 +1,2 @@
+word = set(input())
+print(*word, sep='')
